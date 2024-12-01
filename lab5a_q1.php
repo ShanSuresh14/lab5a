@@ -5,7 +5,7 @@
 </head>
 <body>
     <?php 
-        $name = "Keerthinissha Anathan";
+        $name = "Tharshant Kumar";
     ?>
 
     <table>
@@ -25,11 +25,11 @@
 <body>
     <?php 
         // Variables for your details
-        $name = "Keerthinissha Anathan";
-        $matric_number = "CI230033";
+        $name = "Tharshant Kumar";
+        $matric_number = "CI230028";
         $course = "Cybersecurity";
         $year_of_study = "2";
-        $address = "14, Jalan Bukit Mertajam, Pulau Pinang";
+        $address = "8323, Jalan Laksamana 5, Kuala Lumpur";
     ?>
 
     <table border="1" cellpadding="10">
